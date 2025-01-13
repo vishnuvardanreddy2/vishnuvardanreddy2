@@ -1,20 +1,7 @@
-- 👋 Hi, I’m @vishnuvardanreddy2,currentlt pursuing B.tech in the stream of ECE at KSRM college of engineering in KADAPA
-     Skills: PYTHON,HTML,CSS -(proficient)
-             IOT and EMBEDDED SYSTEMS-(moderate)
-             MATLAB -(moderate) 
-      ⚡Projects: IOT based door unlocking system
-                   (Description: one can easily lock or unlock the door by using your mobile)
-               Involved in various IOT based projects
-     Internships:Completed Internship on Python Devolopment
 
-     📫Education:  B.Tech/B.E. - Electronics/Telecommunication
-                 2021-2025
-                 KSRM College of Engineering, Kadapa
-                 Grade - 9.3/10
-    Certificates or Awards:  Data Science For Beginners By NASSCOM
-                            Python Skillcourse By Hackerrank
-                             Leadership And Sustainability By IUCEE
-  💞️Interests: LEarning new Programming Languages,Adopting new Technologies,Playing Cricket,Listening to Music
+Here's your GitHub bio in paragraph format:
+
+I am currently studying at KSRMCE and will be graduating in 2025. I am skilled in ServiceNow, having cleared both the CSA and CAD certifications. In addition, I have a strong interest in Web Development and am eager to continue learning and expanding my skills in this area.
 
 
 <!---
