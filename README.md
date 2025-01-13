@@ -1,5 +1,5 @@
 
-Here's your GitHub bio in paragraph format:
+
 
 I am currently studying at KSRMCE and will be graduating in 2025. I am skilled in ServiceNow, having cleared both the CSA and CAD certifications. In addition, I have a strong interest in Web Development and am eager to continue learning and expanding my skills in this area.
 
